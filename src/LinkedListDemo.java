@@ -14,6 +14,7 @@ public class LinkedListDemo {
       ll.addLast("Z");
       ll.addFirst("A");
       ll.add(1, "A2");
+      ll.add("A2");
       System.out.println("Original contents of ll: " + ll);
 
       // remove elements from the linked list
